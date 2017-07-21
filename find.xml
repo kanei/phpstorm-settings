@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>col</mask>
-      <mask>coll</mask>
-      <mask>colla</mask>
-      <mask>collagen</mask>
-      <mask>collagen*</mask>
-      <mask>*</mask>
-      <mask>p*</mask>
       <mask>proof*</mask>
       <mask>proo*</mask>
       <mask>pro*</mask>
@@ -34,6 +27,13 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>qe</mask>
+      <mask>q</mask>
+      <mask>w</mask>
+      <mask>we</mask>
+      <mask>web</mask>
+      <mask>webform</mask>
+      <mask>webform*</mask>
     </recentFileMasks>
   </component>
 </application>
