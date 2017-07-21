@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>col</mask>
+      <mask>coll</mask>
+      <mask>colla</mask>
+      <mask>collagen</mask>
+      <mask>collagen*</mask>
+      <mask>*</mask>
+      <mask>p*</mask>
+      <mask>proof*</mask>
+      <mask>proo*</mask>
+      <mask>pro*</mask>
+      <mask>pr</mask>
+      <mask>p</mask>
+      <mask>.sc</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
+      <mask>*.jso</mask>
+      <mask>*.j</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>*.i</mask>
+      <mask>*.ing</mask>
+      <mask>*.in</mask>
+      <mask>*.info</mask>
+      <mask>*.</mask>
+      <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
+  </component>
+</application>
