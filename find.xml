@@ -5,12 +5,10 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.i</mask>
-      <mask>*.ing</mask>
       <mask>*.in</mask>
       <mask>*.info</mask>
-      <mask>*.</mask>
       <mask>*.json</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
@@ -36,6 +34,9 @@
       <mask>scs</mask>
       <mask>scss</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
