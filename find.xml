@@ -5,13 +5,8 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.in</mask>
-      <mask>*.info</mask>
-      <mask>*.json</mask>
-      <mask>*.js</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>qe</mask>
       <mask>q</mask>
@@ -20,11 +15,7 @@
       <mask>web</mask>
       <mask>webform</mask>
       <mask>webform*</mask>
-      <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.htwig</mask>
       <mask>*.htmltwig</mask>
       <mask>*.html.twig</mask>
@@ -33,9 +24,19 @@
       <mask>scs</mask>
       <mask>scss</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.ti</mask>
+      <mask>*.tw</mask>
+      <mask>t</mask>
+      <mask>tw</mask>
+      <mask>twi</mask>
+      <mask>twig</mask>
+      <mask>twig*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
