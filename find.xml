@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>web</mask>
       <mask>webform</mask>
@@ -18,8 +19,6 @@
       <mask>scs</mask>
       <mask>scss</mask>
       <mask>*.scss</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>*.ti</mask>
       <mask>*.tw</mask>
       <mask>t</mask>
@@ -32,10 +31,12 @@
       <mask>*.twig</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.</mask>
-      <mask>*.i</mask>
-      <mask>*.in</mask>
       <mask>*.inc</mask>
+      <mask>*.in</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
