@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.services.yml" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.twi</mask>
-      <mask>*.htwig</mask>
       <mask>*.htmltwig</mask>
       <mask>*.html.twig</mask>
       <mask>s</mask>
@@ -21,7 +19,6 @@
       <mask>twi</mask>
       <mask>twig</mask>
       <mask>twig*</mask>
-      <mask>*</mask>
       <mask>*.t</mask>
       <mask>*.twig</mask>
       <mask>*.p</mask>
@@ -29,12 +26,15 @@
       <mask>*.inc</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.seryml</mask>
       <mask>*.servicyml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
