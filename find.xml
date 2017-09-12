@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*twig*" />
     <recentFileMasks>
-      <mask>*.htmltwig</mask>
-      <mask>*.html.twig</mask>
-      <mask>s</mask>
-      <mask>sc</mask>
-      <mask>scs</mask>
       <mask>scss</mask>
       <mask>*.scss</mask>
       <mask>*.ti</mask>
@@ -32,8 +28,13 @@
       <mask>*.services.yml</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*t</mask>
+      <mask>*tw</mask>
+      <mask>*twi</mask>
+      <mask>*twig</mask>
+      <mask>*twig*</mask>
     </recentFileMasks>
   </component>
 </application>
