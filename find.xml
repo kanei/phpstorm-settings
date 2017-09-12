@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.services.yml" />
     <recentFileMasks>
-      <mask>web</mask>
-      <mask>webform</mask>
-      <mask>webform*</mask>
       <mask>*.twi</mask>
       <mask>*.htwig</mask>
       <mask>*.htmltwig</mask>
@@ -34,6 +32,9 @@
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.seryml</mask>
+      <mask>*.servicyml</mask>
+      <mask>*.services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
