@@ -8,8 +8,6 @@
       <mask>*.inc</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>*.seryml</mask>
       <mask>*.servicyml</mask>
       <mask>*.services.yml</mask>
@@ -27,13 +25,15 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
