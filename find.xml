@@ -1,17 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*webform*.yml" />
     <recentFileMasks>
-      <mask>*.inc</mask>
-      <mask>*.in</mask>
-      <mask>*.i</mask>
-      <mask>*.seryml</mask>
-      <mask>*.servicyml</mask>
-      <mask>*.services.yml</mask>
-      <mask>*t</mask>
-      <mask>*tw</mask>
       <mask>*twi</mask>
       <mask>*twig</mask>
       <mask>*twig*</mask>
@@ -26,14 +21,22 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.t</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.twi</mask>
+      <mask>*.tw</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
+      <mask>*w.yml</mask>
+      <mask>*we.yml</mask>
+      <mask>*web.yml</mask>
+      <mask>*webfr.yml</mask>
+      <mask>*webf.yml</mask>
+      <mask>*webfo.yml</mask>
+      <mask>*webform.yml</mask>
+      <mask>*webform*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
