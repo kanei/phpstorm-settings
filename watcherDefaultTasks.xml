@@ -19,5 +19,24 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="compile C:/Projects/xequals/scentia/docroot/sites/aim/themes/aimpoc/assets $UnixSeparators($FilePath$)$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Compass SCSS" />
+      <option name="output" value="C:/Projects/xequals/scentia/docroot/sites/aim/themes/aimpoc/assets" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Programs/Ruby23/bin/compass.bat" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="C:/Projects/xequals/scentia/docroot/sites/aim/themes/aimpoc/assets" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>
