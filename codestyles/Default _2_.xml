@@ -1,4 +1,4 @@
-<code_scheme name="Default (2)">
+<code_scheme name="Default (2)" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
@@ -42,7 +42,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
