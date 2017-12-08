@@ -5,16 +5,14 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*twig</mask>
       <mask>*twig*</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.ym</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
       <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*w.yml</mask>
@@ -26,7 +24,6 @@
       <mask>*webform.yml</mask>
       <mask>*webform*.yml</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -34,8 +31,12 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
