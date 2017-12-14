@@ -14,7 +14,8 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Programs/Ruby23/bin/scss.bat" />
-      <option name="scopeName" value="Project Files" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Admin" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Programs/Ruby23/bin/compass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="C:/Projects/xequals/scentia/docroot/sites/aim/themes/aimpoc/assets" />
