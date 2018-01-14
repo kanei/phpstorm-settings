@@ -7,14 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.j</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
       <mask>*.js</mask>
@@ -34,10 +28,17 @@
       <mask>*.schema..yml</mask>
       <mask>*.schema.yml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.mo</mask>
-      <mask>*.mod</mask>
       <mask>*.module</mask>
+      <mask>*.modul</mask>
+      <mask>*.modu</mask>
+      <mask>*.mod</mask>
+      <mask>*.mo</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
