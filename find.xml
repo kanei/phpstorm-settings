@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.t</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.settings..yml</mask>
@@ -36,6 +35,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
