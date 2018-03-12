@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.settings..yml</mask>
       <mask>*.settings.yml</mask>
@@ -38,6 +38,7 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
