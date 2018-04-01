@@ -5,38 +5,5 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.html.twig" />
-    <recentFileMasks>
-      <mask>*.settings..yml</mask>
-      <mask>*.settings.yml</mask>
-      <mask>*.setting.yml</mask>
-      <mask>*.settin.yml</mask>
-      <mask>*.setti.yml</mask>
-      <mask>*.sett.yml</mask>
-      <mask>*.set.yml</mask>
-      <mask>*.se.yml</mask>
-      <mask>*..yml</mask>
-      <mask>*.s.yml</mask>
-      <mask>*.sch.yml</mask>
-      <mask>*.schema..yml</mask>
-      <mask>*.schema.yml</mask>
-      <mask>*.module</mask>
-      <mask>*.modul</mask>
-      <mask>*.modu</mask>
-      <mask>*.mod</mask>
-      <mask>*.mo</mask>
-      <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.css</mask>
-      <mask>*.twig</mask>
-      <mask>*.scss</mask>
-      <mask>*.js</mask>
-      <mask>*.html.twig</mask>
-    </recentFileMasks>
   </component>
 </application>
