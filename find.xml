@@ -18,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.scss</mask>
+    <mask>*.tpl.php</mask>
   </component>
 </application>
