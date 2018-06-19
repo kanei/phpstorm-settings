@@ -18,7 +18,7 @@
     <mask>*.less</mask>
     <mask>*.info</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.tpl.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
