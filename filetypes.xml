@@ -7,14 +7,15 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern=".tags" type="PLAIN_TEXT" />
       <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
+      <mapping pattern=".tags" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="submit" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="webp" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="SQL" />
     </extensionMap>
   </component>
