@@ -19,9 +19,9 @@
     <mask>*.html.twig</mask>
     <mask>*.less</mask>
     <mask>*.info</mask>
-    <mask>*.scss</mask>
     <mask>*.tpl.php</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
