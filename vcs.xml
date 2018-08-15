@@ -22,12 +22,15 @@
           <option name="url" value="https://github.com/blue/7camicie.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="VanTuch" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\Blue\7camicie\sites\default" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
