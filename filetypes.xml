@@ -7,8 +7,9 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
       <mapping pattern=".tags" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
+      <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="submit" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
