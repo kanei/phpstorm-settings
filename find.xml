@@ -22,7 +22,7 @@
     <mask>*.tpl.php</mask>
     <mask>*.js</mask>
     <mask>*.install</mask>
-    <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
