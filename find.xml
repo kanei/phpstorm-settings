@@ -20,9 +20,9 @@
     <mask>*.install</mask>
     <mask>para*</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
