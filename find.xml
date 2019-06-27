@@ -22,7 +22,7 @@
     <mask>*.html.twig</mask>
     <mask>*.install</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
