@@ -42,6 +42,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:/Projects/drupal/drupal8/patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="C:/Projects/drupal/email_registration/patches" />
   </component>
 </application>
