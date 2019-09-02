@@ -10,10 +10,10 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
-      <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".tags" type="PLAIN_TEXT" />
+      <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_owl-carousel" type="PLAIN_TEXT" />
       <mapping ext="webp" type="PLAIN_TEXT" />
       <mapping ext="submit" type="PLAIN_TEXT" />
@@ -22,8 +22,8 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
