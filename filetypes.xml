@@ -10,8 +10,8 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern=".tags" type="PLAIN_TEXT" />
-      <mapping pattern="62afca7c7089" type="PLAIN_TEXT" />
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
+      <mapping pattern="62afca7c7089" type="PLAIN_TEXT" />
       <mapping pattern="cro-newsletter-article--double" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
