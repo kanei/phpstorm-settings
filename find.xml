@@ -23,7 +23,7 @@
     <mask>*.install</mask>
     <mask>*.js</mask>
     <mask>*Widget*</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
