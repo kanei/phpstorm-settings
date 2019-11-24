@@ -25,9 +25,9 @@
     <mask>*.install</mask>
     <mask>*.js</mask>
     <mask>*Widget*</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.inc</mask>
     <mask>*.routing.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
